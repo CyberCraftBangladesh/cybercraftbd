@@ -142,8 +142,6 @@
 
 <div align="center">
 
----
-
 **Ready to build something great?**&ensp;[ccbd.dev](https://ccbd.dev)&ensp;·&ensp;[info@ccbd.dev](mailto:info@ccbd.dev)&ensp;·&ensp;[WhatsApp](https://wa.me/01894578601)&ensp;·&ensp;[LinkedIn](https://www.linkedin.com/company/cybercraftbangladesh/)
 
 <sub>© 2025 CyberCraft Bangladesh · Dhaka, Bangladesh</sub>
