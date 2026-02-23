@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/🌐_ccbd.dev-0f172a?style=flat-square)](https://ccbd.dev)&ensp;[![](https://img.shields.io/badge/✉_info@ccbd.dev-0f172a?style=flat-square)](mailto:info@ccbd.dev)&ensp;[![](https://img.shields.io/badge/WhatsApp-0f172a?style=flat-square&logo=whatsapp&logoColor=25D366)](https://wa.me/01894578601)&ensp;[![](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/company/cybercraftbangladesh/)&ensp;[![](https://komarev.com/ghpvc/?username=CyberCraftBD&style=flat-square&color=6366f1&label=Views)](https://github.com/CyberCraftBD)
+[![](https://img.shields.io/badge/ccbd.dev-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ccbd.dev)&nbsp;[![](https://img.shields.io/badge/info@ccbd.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@ccbd.dev)&nbsp;[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01894578601)&nbsp;[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cybercraftbangladesh/)&nbsp;[![](https://komarev.com/ghpvc/?username=CyberCraftBD&style=for-the-badge&color=8b5cf6&label=Profile+Views)](https://github.com/CyberCraftBD)
 
 </div>
 
