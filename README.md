@@ -33,60 +33,87 @@
 <tr>
 <td align="center" valign="top" width="33%">
 
-🌐 **Web Development**
-Full-stack apps with AI integration, built for performance and scale.
+[![](https://img.shields.io/badge/─────────────────-6366f1?style=for-the-badge)](https://ccbd.dev)
+
+🌐 &nbsp;**Web Development**
+
+<sub>Full-stack applications with AI integration, built for performance and global scale.</sub>
 
 </td>
 <td align="center" valign="top" width="33%">
 
-⭐ **Verified Reviews**
-Authentic product & service review platforms businesses can trust.
+[![](https://img.shields.io/badge/─────────────────-f59e0b?style=for-the-badge)](https://ccbd.dev)
+
+⭐ &nbsp;**Verified Reviews**
+
+<sub>Authentic product & service review platforms that businesses and customers trust.</sub>
 
 </td>
 <td align="center" valign="top" width="33%">
 
-🏗️ **Construction ERP**
-Planning, procurement, site tracking and delivery in one system.
+[![](https://img.shields.io/badge/─────────────────-ef4444?style=for-the-badge)](https://ccbd.dev)
+
+🏗️ &nbsp;**Construction ERP**
+
+<sub>Planning, procurement, site tracking and delivery managed in one system.</sub>
 
 </td>
 </tr>
 <tr>
 <td align="center" valign="top">
 
-💼 **Accounting ERP**
-Financial management, audit trails and compliance reporting.
+[![](https://img.shields.io/badge/─────────────────-3b82f6?style=for-the-badge)](https://ccbd.dev)
+
+💼 &nbsp;**Accounting ERP**
+
+<sub>Financial management, audit trails and compliance reporting built for accuracy.</sub>
 
 </td>
 <td align="center" valign="top">
 
-👥 **Human Resource ERP**
-Hiring, attendance, performance reviews and employee lifecycle.
+[![](https://img.shields.io/badge/─────────────────-ec4899?style=for-the-badge)](https://ccbd.dev)
+
+👥 &nbsp;**Human Resource ERP**
+
+<sub>Hiring, attendance, performance reviews and full employee lifecycle management.</sub>
 
 </td>
 <td align="center" valign="top">
 
-💰 **Payroll ERP**
-Automated payroll with built-in tax compliance.
+[![](https://img.shields.io/badge/─────────────────-22c55e?style=for-the-badge)](https://ccbd.dev)
+
+💰 &nbsp;**Payroll ERP**
+
+<sub>Automated, error-free payroll processing with tax compliance built in.</sub>
 
 </td>
 </tr>
 <tr>
 <td align="center" valign="top">
 
-🏢 **Building Management ERP**
-Smart property & facility management for developers.
+[![](https://img.shields.io/badge/─────────────────-14b8a6?style=for-the-badge)](https://ccbd.dev)
+
+🏢 &nbsp;**Building Management ERP**
+
+<sub>Smart property and facility management for developers and asset operators.</sub>
 
 </td>
 <td align="center" valign="top">
 
-✍️ **Content Writing**
-SEO-driven content crafted for real business outcomes.
+[![](https://img.shields.io/badge/─────────────────-a855f7?style=for-the-badge)](https://ccbd.dev)
+
+✍️ &nbsp;**Content Writing**
+
+<sub>SEO-driven, high-converting content crafted for real business outcomes.</sub>
 
 </td>
 <td align="center" valign="top">
 
-📊 **FB Accounting ERP**
-Accounting built for Facebook-based commerce businesses.
+[![](https://img.shields.io/badge/─────────────────-1877f2?style=for-the-badge)](https://ccbd.dev)
+
+📊 &nbsp;**FB Accounting ERP**
+
+<sub>Accounting purpose-built for Facebook-based commerce and online businesses.</sub>
 
 </td>
 </tr>
