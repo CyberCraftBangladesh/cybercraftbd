@@ -2,35 +2,31 @@
 
 <br/><br/>
 
-# C · Y · B · E · R · C · R · A · F · T
-
-<h3>B &nbsp;&nbsp; A &nbsp;&nbsp; N &nbsp;&nbsp; G &nbsp;&nbsp; L &nbsp;&nbsp; A &nbsp;&nbsp; D &nbsp;&nbsp; E &nbsp;&nbsp; S &nbsp;&nbsp; H</h3>
+<sub>— &nbsp; DHAKA, BANGLADESH &nbsp;·&nbsp; SINCE 2024 &nbsp;·&nbsp; CCBD.DEV &nbsp; —</sub>
 
 <br/>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Software &ensp;·&ensp; ERP &ensp;·&ensp; AI &ensp;·&ensp; Content &ensp;·&ensp; Reviews**
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[![](https://img.shields.io/badge/CYBERCRAFT-BANGLADESH-6366f1?style=for-the-badge&labelColor=0f172a&logoColor=white)](https://ccbd.dev)
 
 <br/>
+
+<sub>Enterprise Software &ensp;·&ensp; ERP Systems &ensp;·&ensp; AI Tools &ensp;·&ensp; Content &ensp;·&ensp; Reviews</sub>
+
+<br/><br/>
 
 [![](https://img.shields.io/badge/ccbd.dev-0f172a?style=flat-square&logo=googlechrome&logoColor=6366f1)](https://ccbd.dev)&ensp;
 [![](https://img.shields.io/badge/info@ccbd.dev-0f172a?style=flat-square&logo=gmail&logoColor=8b5cf6)](mailto:info@ccbd.dev)&ensp;
 [![](https://img.shields.io/badge/WhatsApp-0f172a?style=flat-square&logo=whatsapp&logoColor=25D366)](https://wa.me/01894578601)&ensp;
 [![](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/company/cybercraftbangladesh/)&ensp;
-[![](https://komarev.com/ghpvc/?username=cybercraftbd&style=flat-square&color=6366f1&label=Views)](https://github.com/cybercraftbd)
+[![](https://komarev.com/ghpvc/?username=CyberCraftBD&style=flat-square&color=6366f1&label=Views)](https://github.com/CyberCraftBD)
 
 <br/><br/>
 
 </div>
 
-> **We build software that scales.**
-> **ERP systems that transform.**
-> **Content that converts.**
->
-> <sub>CyberCraft Bangladesh is a technology company from Dhaka, delivering enterprise-grade digital products for businesses that compete globally.</sub>
+We build software that matters. Full-stack web applications, enterprise ERP systems for construction, accounting, HR, payroll and building management, AI-powered tools, verified review platforms, and content that performs — all of it production-ready, all of it built to last.
+
+Based in **Dhaka, Bangladesh.** Shipping globally.
 
 <br/>
 
@@ -38,7 +34,22 @@
 
 <br/>
 
-## Services
+<table>
+<tr>
+<td align="center" width="25%"><h3>10+</h3><sub>Projects Delivered</sub></td>
+<td align="center" width="25%"><h3>9</h3><sub>Services</sub></td>
+<td align="center" width="25%"><h3>4</h3><sub>Live Platforms</sub></td>
+<td align="center" width="25%"><h3>6</h3><sub>Builds In Progress</sub></td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## What We Do
 
 <br/>
 
@@ -46,14 +57,14 @@
 <tr>
 <td width="50%" valign="top">
 
-#### `01` &ensp; Web Development
-Full-stack applications with AI integration — designed for performance and built to scale from day one.
+**Web Development & Deployment**
+Full-stack applications with AI integration, built for performance and scale.
 
 </td>
 <td width="50%" valign="top">
 
-#### `02` &ensp; Verified Reviews
-Authentic review systems that build genuine trust between businesses and their customers.
+**Verified Review Systems**
+Authentic product and service review platforms that businesses can trust.
 
 </td>
 </tr>
@@ -61,29 +72,14 @@ Authentic review systems that build genuine trust between businesses and their c
 <tr>
 <td valign="top">
 
-#### `03` &ensp; Construction ERP
-Complete project management — planning, procurement, site tracking and delivery in one system.
+**Construction ERP**
+End-to-end project management — planning, procurement, site tracking, delivery.
 
 </td>
 <td valign="top">
 
-#### `04` &ensp; Accounting ERP
-Smart financial management, audit trails and reporting built for accuracy and compliance.
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td valign="top">
-
-#### `05` &ensp; Human Resource ERP
-Full HR lifecycle — hiring, attendance, performance reviews and employee development.
-
-</td>
-<td valign="top">
-
-#### `06` &ensp; Payroll ERP
-Automated, error-free payroll processing with tax compliance baked in from the start.
+**Accounting ERP**
+Financial management, audit trails and reporting built for compliance.
 
 </td>
 </tr>
@@ -91,14 +87,14 @@ Automated, error-free payroll processing with tax compliance baked in from the s
 <tr>
 <td valign="top">
 
-#### `07` &ensp; Building Management ERP
-Smart property and facility management for landlords, developers and asset operators.
+**Human Resource ERP**
+Complete HR lifecycle — hiring, attendance, performance, and development.
 
 </td>
 <td valign="top">
 
-#### `08` &ensp; Content Writing
-SEO-driven, high-converting content crafted with precision for real business outcomes.
+**Payroll ERP**
+Automated, accurate payroll with tax compliance built in.
 
 </td>
 </tr>
@@ -106,8 +102,23 @@ SEO-driven, high-converting content crafted with precision for real business out
 <tr>
 <td valign="top">
 
-#### `09` &ensp; FB Accounting ERP
-Purpose-built accounting for Facebook-based commerce — sales tracking, reconciliation and reporting.
+**Building Management ERP**
+Smart property and facility management for developers and operators.
+
+</td>
+<td valign="top">
+
+**Content Writing**
+SEO-driven, high-converting content crafted for real business outcomes.
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td valign="top">
+
+**FB Accounting ERP**
+Accounting purpose-built for Facebook-based commerce — reconciliation, sales and reporting.
 
 </td>
 <td></td>
@@ -120,79 +131,53 @@ Purpose-built accounting for Facebook-based commerce — sales tracking, reconci
 
 <br/>
 
-## Selected Work
+## Portfolio
 
 <br/>
 
 <table width="100%">
 <tr>
-<td valign="top">
-
-**[Nusaiba.com.bd](https://nusaiba.com.bd/)**
-<br/><sub>Organisation portfolio &ensp;·&ensp; Next.js &ensp;·&ensp; Express &ensp;·&ensp; MongoDB</sub>
-
-</td>
-<td align="right" valign="top"><sub>● &nbsp;Live</sub></td>
+<td><b><a href="https://nusaiba.com.bd/">Nusaiba.com.bd</a></b> &nbsp;—&nbsp; <sub>Organisation portfolio · Next.js · Express · MongoDB</sub></td>
+<td align="right"><sub>● Live</sub></td>
 </tr>
-<tr><td colspan="2"><sub>───────────────────────────────────────────────────────────────────</sub></td></tr>
+<tr><td colspan="2"><hr/></td></tr>
 <tr>
-<td valign="top">
-
-**[DevicesFinder.com](https://devicesfinder.com/)**
-<br/><sub>Mobile device review platform &ensp;·&ensp; Next.js &ensp;·&ensp; Express &ensp;·&ensp; MongoDB</sub>
-
-</td>
-<td align="right" valign="top"><sub>● &nbsp;Live</sub></td>
+<td><b><a href="https://devicesfinder.com/">DevicesFinder.com</a></b> &nbsp;—&nbsp; <sub>Mobile device review platform · Next.js · Express · MongoDB</sub></td>
+<td align="right"><sub>● Live</sub></td>
 </tr>
-<tr><td colspan="2"><sub>───────────────────────────────────────────────────────────────────</sub></td></tr>
+<tr><td colspan="2"><hr/></td></tr>
 <tr>
-<td valign="top">
-
-**[MobilesInsight.com](https://mobilesinsight.com/)**
-<br/><sub>Mobile specification &amp; comparison &ensp;·&ensp; Next.js &ensp;·&ensp; Express &ensp;·&ensp; MongoDB</sub>
-
-</td>
-<td align="right" valign="top"><sub>● &nbsp;Live</sub></td>
+<td><b><a href="https://mobilesinsight.com/">MobilesInsight.com</a></b> &nbsp;—&nbsp; <sub>Mobile specification & comparison · Next.js · Express · MongoDB</sub></td>
+<td align="right"><sub>● Live</sub></td>
 </tr>
-<tr><td colspan="2"><sub>───────────────────────────────────────────────────────────────────</sub></td></tr>
+<tr><td colspan="2"><hr/></td></tr>
 <tr>
-<td valign="top">
-
-**[AppsHint.com](https://appshint.com/)**
-<br/><sub>Community-driven Q&amp;A platform &ensp;·&ensp; Next.js &ensp;·&ensp; Express &ensp;·&ensp; MongoDB</sub>
-
-</td>
-<td align="right" valign="top"><sub>● &nbsp;Live</sub></td>
+<td><b><a href="https://appshint.com/">AppsHint.com</a></b> &nbsp;—&nbsp; <sub>Community-driven Q&A platform · Next.js · Express · MongoDB</sub></td>
+<td align="right"><sub>● Live</sub></td>
 </tr>
-<tr><td colspan="2"><sub>───────────────────────────────────────────────────────────────────</sub></td></tr>
+<tr><td colspan="2"><hr/></td></tr>
 <tr>
-<td valign="top">
-
-**[a1.ccbd.dev](https://a1.ccbd.dev) &ensp; [a2.ccbd.dev](https://a2.ccbd.dev)**
-<br/><sub>Android app review &amp; discovery platforms</sub>
-
+<td>
+  <b><a href="https://a1.ccbd.dev">a1.ccbd.dev</a></b> &nbsp;<b><a href="https://a2.ccbd.dev">a2.ccbd.dev</a></b>
+  &nbsp;—&nbsp; <sub>Android app review & discovery platforms</sub>
 </td>
-<td align="right" valign="top"><sub>◌ &nbsp;In Progress</sub></td>
+<td align="right"><sub>◌ Building</sub></td>
 </tr>
-<tr><td colspan="2"><sub>───────────────────────────────────────────────────────────────────</sub></td></tr>
+<tr><td colspan="2"><hr/></td></tr>
 <tr>
-<td valign="top">
-
-**[m3.ccbd.dev](https://m3.ccbd.dev/) &ensp; [m4.ccbd.dev](https://m4.ccbd.dev/)**
-<br/><sub>Mobile specification &amp; comparison platforms</sub>
-
+<td>
+  <b><a href="https://m3.ccbd.dev/">m3.ccbd.dev</a></b> &nbsp;<b><a href="https://m4.ccbd.dev/">m4.ccbd.dev</a></b>
+  &nbsp;—&nbsp; <sub>Mobile specification & comparison platforms</sub>
 </td>
-<td align="right" valign="top"><sub>◌ &nbsp;In Progress</sub></td>
+<td align="right"><sub>◌ Building</sub></td>
 </tr>
-<tr><td colspan="2"><sub>───────────────────────────────────────────────────────────────────</sub></td></tr>
+<tr><td colspan="2"><hr/></td></tr>
 <tr>
-<td valign="top">
-
-**[q1.ccbd.dev](https://q1.ccbd.dev/) &ensp; [q2.ccbd.dev](https://q2.ccbd.dev/)**
-<br/><sub>Q&amp;A community platforms</sub>
-
+<td>
+  <b><a href="https://q1.ccbd.dev/">q1.ccbd.dev</a></b> &nbsp;<b><a href="https://q2.ccbd.dev/">q2.ccbd.dev</a></b>
+  &nbsp;—&nbsp; <sub>Q&A community platforms</sub>
 </td>
-<td align="right" valign="top"><sub>◌ &nbsp;In Progress</sub></td>
+<td align="right"><sub>◌ Building</sub></td>
 </tr>
 </table>
 
@@ -208,50 +193,50 @@ Purpose-built accounting for Facebook-based commerce — sales tracking, reconci
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 **Languages**
-<br/>TypeScript &ensp;·&ensp; JavaScript &ensp;·&ensp; Python &ensp;·&ensp; PHP
+TypeScript · JavaScript · Python · PHP
 
 <br/>
 
 **Frontend**
-<br/>React &ensp;·&ensp; Next.js &ensp;·&ensp; Vue &ensp;·&ensp; Nuxt.js &ensp;·&ensp; Angular
-<br/>TailwindCSS &ensp;·&ensp; Redux &ensp;·&ensp; SASS &ensp;·&ensp; Bootstrap
+React · Next.js · Vue · Nuxt.js · Angular
+TailwindCSS · Redux · SASS · Bootstrap
 
-<br/>
+</td>
+<td valign="top" width="33%">
 
 **Backend**
-<br/>Node.js &ensp;·&ensp; Express &ensp;·&ensp; NestJS &ensp;·&ensp; Nginx
-<br/>Django &ensp;·&ensp; Laravel &ensp;·&ensp; .NET
+Node.js · Express · NestJS · Nginx
+Django · Laravel · .NET
 
 <br/>
 
 **Mobile & Desktop**
-<br/>React Native &ensp;·&ensp; Electron
-
-</td>
-<td valign="top" width="50%">
-
-**AI / Machine Learning**
-<br/>TensorFlow &ensp;·&ensp; PyTorch
+React Native · Electron
 
 <br/>
 
+**AI / ML**
+TensorFlow · PyTorch
+
+</td>
+<td valign="top" width="33%">
+
 **Databases**
-<br/>MongoDB &ensp;·&ensp; PostgreSQL &ensp;·&ensp; MySQL
-<br/>MariaDB &ensp;·&ensp; SQL Server &ensp;·&ensp; Oracle &ensp;·&ensp; Redis
+MongoDB · PostgreSQL · MySQL
+MariaDB · SQL Server · Oracle · Redis
 
 <br/>
 
 **Cloud & DevOps**
-<br/>AWS &ensp;·&ensp; Google Cloud &ensp;·&ensp; Docker &ensp;·&ensp; Firebase
+AWS · Google Cloud · Docker · Firebase
 
 <br/>
 
 **Design & Tools**
-<br/>Figma &ensp;·&ensp; Illustrator &ensp;·&ensp; Photoshop
-<br/>Postman &ensp;·&ensp; Git &ensp;·&ensp; Cypress
+Figma · Illustrator · Photoshop · Git
 
 </td>
 </tr>
@@ -265,14 +250,21 @@ Purpose-built accounting for Facebook-based commerce — sales tracking, reconci
 
 <div align="center">
 
-### Ready to build something great?
-
-<sub>[ccbd.dev](https://ccbd.dev) &ensp;·&ensp; [info@ccbd.dev](mailto:info@ccbd.dev) &ensp;·&ensp; [WhatsApp](https://wa.me/01894578601) &ensp;·&ensp; [LinkedIn](https://www.linkedin.com/company/cybercraftbangladesh/)</sub>
+**Have a project in mind?**
 
 <br/>
+
+<sub>
+<a href="https://ccbd.dev">ccbd.dev</a> &ensp;·&ensp;
+<a href="mailto:info@ccbd.dev">info@ccbd.dev</a> &ensp;·&ensp;
+<a href="https://wa.me/01894578601">WhatsApp</a> &ensp;·&ensp;
+<a href="https://www.linkedin.com/company/cybercraftbangladesh/">LinkedIn</a>
+</sub>
+
+<br/><br/>
 
 <sub>© 2025 CyberCraft Bangladesh &ensp;·&ensp; Dhaka, Bangladesh</sub>
 
-<br/>
+<br/><br/>
 
 </div>
