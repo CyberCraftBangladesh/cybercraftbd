@@ -123,41 +123,96 @@
 
 ### Portfolio
 
-<table width="100%">
+**✅ &nbsp; Live Products**
+
+<table>
 <tr>
-<td valign="middle"><b><a href="https://nusaiba.com.bd/">Nusaiba.com.bd</a></b> <sub>— Organisation portfolio</sub></td>
-<td valign="middle"><sub>Next.js · Express · MongoDB</sub></td>
-<td align="right" valign="middle">![](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)</td>
+<td align="center" valign="top" width="50%">
+
+[![](https://img.shields.io/badge/─────────────────────────────────-6366f1?style=for-the-badge)](https://nusaiba.com.bd/)
+
+🌐 &nbsp;**[Nusaiba.com.bd](https://nusaiba.com.bd/)**
+
+<sub>Organisation portfolio & company website</sub>
+
+![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/Express-555?style=flat-square&logo=express&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;![](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)
+
+</td>
+<td align="center" valign="top" width="50%">
+
+[![](https://img.shields.io/badge/─────────────────────────────────-06b6d4?style=for-the-badge)](https://devicesfinder.com/)
+
+📱 &nbsp;**[DevicesFinder.com](https://devicesfinder.com/)**
+
+<sub>Comprehensive mobile device review platform</sub>
+
+![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/Express-555?style=flat-square&logo=express&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;![](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)
+
+</td>
 </tr>
 <tr>
-<td valign="middle"><b><a href="https://devicesfinder.com/">DevicesFinder.com</a></b> <sub>— Mobile device review platform</sub></td>
-<td valign="middle"><sub>Next.js · Express · MongoDB</sub></td>
-<td align="right" valign="middle">![](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)</td>
+<td align="center" valign="top">
+
+[![](https://img.shields.io/badge/─────────────────────────────────-10b981?style=for-the-badge)](https://mobilesinsight.com/)
+
+🔍 &nbsp;**[MobilesInsight.com](https://mobilesinsight.com/)**
+
+<sub>In-depth mobile specification & comparison</sub>
+
+![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/Express-555?style=flat-square&logo=express&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;![](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)
+
+</td>
+<td align="center" valign="top">
+
+[![](https://img.shields.io/badge/─────────────────────────────────-f97316?style=for-the-badge)](https://appshint.com/)
+
+💬 &nbsp;**[AppsHint.com](https://appshint.com/)**
+
+<sub>Community-driven opinion & Q&A platform</sub>
+
+![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/Express-555?style=flat-square&logo=express&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;![](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)
+
+</td>
 </tr>
+</table>
+
+**🔄 &nbsp; In Progress**
+
+<table>
 <tr>
-<td valign="middle"><b><a href="https://mobilesinsight.com/">MobilesInsight.com</a></b> <sub>— Mobile specification & comparison</sub></td>
-<td valign="middle"><sub>Next.js · Express · MongoDB</sub></td>
-<td align="right" valign="middle">![](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)</td>
-</tr>
-<tr>
-<td valign="middle"><b><a href="https://appshint.com/">AppsHint.com</a></b> <sub>— Community Q&A platform</sub></td>
-<td valign="middle"><sub>Next.js · Express · MongoDB</sub></td>
-<td align="right" valign="middle">![](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)</td>
-</tr>
-<tr>
-<td valign="middle"><b><a href="https://a1.ccbd.dev">a1.ccbd.dev</a> · <a href="https://a2.ccbd.dev">a2.ccbd.dev</a></b> <sub>— Android app review & discovery</sub></td>
-<td valign="middle"><sub>Next.js · Express · MongoDB</sub></td>
-<td align="right" valign="middle">![](https://img.shields.io/badge/◌_Building-f59e0b?style=flat-square)</td>
-</tr>
-<tr>
-<td valign="middle"><b><a href="https://m3.ccbd.dev/">m3.ccbd.dev</a> · <a href="https://m4.ccbd.dev/">m4.ccbd.dev</a></b> <sub>— Mobile specification platforms</sub></td>
-<td valign="middle"><sub>Next.js · Express · MongoDB</sub></td>
-<td align="right" valign="middle">![](https://img.shields.io/badge/◌_Building-f59e0b?style=flat-square)</td>
-</tr>
-<tr>
-<td valign="middle"><b><a href="https://q1.ccbd.dev/">q1.ccbd.dev</a> · <a href="https://q2.ccbd.dev/">q2.ccbd.dev</a></b> <sub>— Q&A community platforms</sub></td>
-<td valign="middle"><sub>Next.js · Express · MongoDB</sub></td>
-<td align="right" valign="middle">![](https://img.shields.io/badge/◌_Building-f59e0b?style=flat-square)</td>
+<td align="center" valign="top" width="33%">
+
+[![](https://img.shields.io/badge/─────────────────-f59e0b?style=for-the-badge)](https://a1.ccbd.dev)
+
+📱 &nbsp;**[a1.ccbd.dev](https://a1.ccbd.dev) &nbsp;·&nbsp; [a2.ccbd.dev](https://a2.ccbd.dev)**
+
+<sub>Android app review & discovery platforms</sub>
+
+![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;![](https://img.shields.io/badge/◌_Building-f59e0b?style=flat-square)
+
+</td>
+<td align="center" valign="top" width="33%">
+
+[![](https://img.shields.io/badge/─────────────────-f59e0b?style=for-the-badge)](https://m3.ccbd.dev/)
+
+📊 &nbsp;**[m3.ccbd.dev](https://m3.ccbd.dev/) &nbsp;·&nbsp; [m4.ccbd.dev](https://m4.ccbd.dev/)**
+
+<sub>Mobile specification & comparison platforms</sub>
+
+![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;![](https://img.shields.io/badge/◌_Building-f59e0b?style=flat-square)
+
+</td>
+<td align="center" valign="top" width="33%">
+
+[![](https://img.shields.io/badge/─────────────────-f59e0b?style=for-the-badge)](https://q1.ccbd.dev/)
+
+❓ &nbsp;**[q1.ccbd.dev](https://q1.ccbd.dev/) &nbsp;·&nbsp; [q2.ccbd.dev](https://q2.ccbd.dev/)**
+
+<sub>Q&A community platforms</sub>
+
+![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;![](https://img.shields.io/badge/◌_Building-f59e0b?style=flat-square)
+
+</td>
 </tr>
 </table>
 
