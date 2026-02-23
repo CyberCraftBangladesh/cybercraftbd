@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/ccbd.dev-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ccbd.dev)&nbsp;[![](https://img.shields.io/badge/info@ccbd.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@ccbd.dev)&nbsp;[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01894578601)&nbsp;[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cybercraftbangladesh/)&nbsp;[![](https://komarev.com/ghpvc/?username=CyberCraftBD&style=for-the-badge&color=8b5cf6&label=Profile+Views)](https://github.com/CyberCraftBD)
+[![](https://img.shields.io/badge/ccbd.dev-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ccbd.dev)&nbsp;[![](https://img.shields.io/badge/info@ccbd.dev-4338ca?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@ccbd.dev)&nbsp;[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01894578601)&nbsp;[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cybercraftbangladesh/)&nbsp;[![](https://komarev.com/ghpvc/?username=CyberCraftBD&style=for-the-badge&color=6366f1&label=Profile+Views)](https://github.com/CyberCraftBD)
 
 </div>
 
@@ -19,7 +19,7 @@
 </td>
 <td valign="top" width="32%" align="center">
 
-![](https://img.shields.io/badge/10%2B-Projects%20Delivered-6366f1?style=flat-square) ![](https://img.shields.io/badge/9-Services-8b5cf6?style=flat-square) ![](https://img.shields.io/badge/4-Live%20Platforms-22c55e?style=flat-square) ![](https://img.shields.io/badge/6-In%20Progress-f59e0b?style=flat-square)
+![](https://img.shields.io/badge/10%2B-Projects%20Delivered-4f46e5?style=flat-square)&nbsp;![](https://img.shields.io/badge/9-Services-6366f1?style=flat-square)&nbsp;![](https://img.shields.io/badge/4-Live%20Platforms-818cf8?style=flat-square)&nbsp;![](https://img.shields.io/badge/6-In%20Progress-a5b4fc?style=flat-square)
 
 </td>
 </tr>
@@ -33,7 +33,7 @@
 <tr>
 <td align="center" valign="top" width="33%">
 
-[![](https://img.shields.io/badge/─────────────────-6366f1?style=for-the-badge)](https://ccbd.dev)
+[![](https://img.shields.io/badge/─────────────────-4f46e5?style=for-the-badge)](https://ccbd.dev)
 
 🌐 &nbsp;**Web Development**
 
@@ -42,7 +42,7 @@
 </td>
 <td align="center" valign="top" width="33%">
 
-[![](https://img.shields.io/badge/─────────────────-f59e0b?style=for-the-badge)](https://ccbd.dev)
+[![](https://img.shields.io/badge/─────────────────-6366f1?style=for-the-badge)](https://ccbd.dev)
 
 ⭐ &nbsp;**Verified Reviews**
 
@@ -51,7 +51,7 @@
 </td>
 <td align="center" valign="top" width="33%">
 
-[![](https://img.shields.io/badge/─────────────────-ef4444?style=for-the-badge)](https://ccbd.dev)
+[![](https://img.shields.io/badge/─────────────────-818cf8?style=for-the-badge)](https://ccbd.dev)
 
 🏗️ &nbsp;**Construction ERP**
 
@@ -62,7 +62,7 @@
 <tr>
 <td align="center" valign="top">
 
-[![](https://img.shields.io/badge/─────────────────-3b82f6?style=for-the-badge)](https://ccbd.dev)
+[![](https://img.shields.io/badge/─────────────────-6366f1?style=for-the-badge)](https://ccbd.dev)
 
 💼 &nbsp;**Accounting ERP**
 
@@ -71,7 +71,7 @@
 </td>
 <td align="center" valign="top">
 
-[![](https://img.shields.io/badge/─────────────────-ec4899?style=for-the-badge)](https://ccbd.dev)
+[![](https://img.shields.io/badge/─────────────────-818cf8?style=for-the-badge)](https://ccbd.dev)
 
 👥 &nbsp;**Human Resource ERP**
 
@@ -80,7 +80,7 @@
 </td>
 <td align="center" valign="top">
 
-[![](https://img.shields.io/badge/─────────────────-22c55e?style=for-the-badge)](https://ccbd.dev)
+[![](https://img.shields.io/badge/─────────────────-4f46e5?style=for-the-badge)](https://ccbd.dev)
 
 💰 &nbsp;**Payroll ERP**
 
@@ -91,7 +91,7 @@
 <tr>
 <td align="center" valign="top">
 
-[![](https://img.shields.io/badge/─────────────────-14b8a6?style=for-the-badge)](https://ccbd.dev)
+[![](https://img.shields.io/badge/─────────────────-818cf8?style=for-the-badge)](https://ccbd.dev)
 
 🏢 &nbsp;**Building Management ERP**
 
@@ -100,7 +100,7 @@
 </td>
 <td align="center" valign="top">
 
-[![](https://img.shields.io/badge/─────────────────-a855f7?style=for-the-badge)](https://ccbd.dev)
+[![](https://img.shields.io/badge/─────────────────-4f46e5?style=for-the-badge)](https://ccbd.dev)
 
 ✍️ &nbsp;**Content Writing**
 
@@ -109,7 +109,7 @@
 </td>
 <td align="center" valign="top">
 
-[![](https://img.shields.io/badge/─────────────────-1877f2?style=for-the-badge)](https://ccbd.dev)
+[![](https://img.shields.io/badge/─────────────────-6366f1?style=for-the-badge)](https://ccbd.dev)
 
 📊 &nbsp;**FB Accounting ERP**
 
@@ -134,7 +134,7 @@
 **[🌐 &nbsp;Nusaiba.com.bd](https://nusaiba.com.bd/)**
 <sub>Organisation portfolio & company website</sub>
 
-![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/Express-555?style=flat-square&logo=express&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)
+![](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/●_Live-4f46e5?style=flat-square)
 
 </td>
 <td align="center" valign="top" width="50%">
@@ -144,7 +144,7 @@
 **[📱 &nbsp;DevicesFinder.com](https://devicesfinder.com/)**
 <sub>Comprehensive mobile device review platform</sub>
 
-![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/Express-555?style=flat-square&logo=express&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)
+![](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/●_Live-4f46e5?style=flat-square)
 
 </td>
 </tr>
@@ -156,7 +156,7 @@
 **[🔍 &nbsp;MobilesInsight.com](https://mobilesinsight.com/)**
 <sub>In-depth mobile specification & comparison</sub>
 
-![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/Express-555?style=flat-square&logo=express&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)
+![](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/●_Live-4f46e5?style=flat-square)
 
 </td>
 <td align="center" valign="top">
@@ -166,7 +166,7 @@
 **[💬 &nbsp;AppsHint.com](https://appshint.com/)**
 <sub>Community-driven opinion & Q&A platform</sub>
 
-![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/Express-555?style=flat-square&logo=express&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)
+![](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/●_Live-4f46e5?style=flat-square)
 
 </td>
 </tr>
@@ -183,7 +183,7 @@
 **[a1.ccbd.dev](https://a1.ccbd.dev) &nbsp;·&nbsp; [a2.ccbd.dev](https://a2.ccbd.dev)**
 <sub>Android app review & discovery platforms</sub>
 
-![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;![](https://img.shields.io/badge/◌_Building-f59e0b?style=flat-square)
+![](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=white)&nbsp;![](https://img.shields.io/badge/◌_Building-818cf8?style=flat-square)
 
 </td>
 <td align="center" valign="top" width="33%">
@@ -193,7 +193,7 @@
 **[m3.ccbd.dev](https://m3.ccbd.dev/) &nbsp;·&nbsp; [m4.ccbd.dev](https://m4.ccbd.dev/)**
 <sub>Mobile specification & comparison platforms</sub>
 
-![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;![](https://img.shields.io/badge/◌_Building-f59e0b?style=flat-square)
+![](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=white)&nbsp;![](https://img.shields.io/badge/◌_Building-818cf8?style=flat-square)
 
 </td>
 <td align="center" valign="top" width="33%">
@@ -203,7 +203,7 @@
 **[q1.ccbd.dev](https://q1.ccbd.dev/) &nbsp;·&nbsp; [q2.ccbd.dev](https://q2.ccbd.dev/)**
 <sub>Q&A community platforms</sub>
 
-![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;![](https://img.shields.io/badge/◌_Building-f59e0b?style=flat-square)
+![](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;![](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=white)&nbsp;![](https://img.shields.io/badge/◌_Building-818cf8?style=flat-square)
 
 </td>
 </tr>
